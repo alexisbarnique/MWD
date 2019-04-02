@@ -61,7 +61,7 @@
             <!-- FOOTER -->
 
             <div class="footer register-footer text-center">
-                <h6>&copy; 2018 MWD, All rights reserved</h6>
+                <h6>&copy; 2018 MWD MANAGEMENT COMPANY LLC</h6>
             </div>
         </div>
     </div>

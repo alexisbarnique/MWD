@@ -1,7 +1,7 @@
 <?php
 // LOGIN USER
 session_start();
-/*$db = mysqli_connect('localhost', 'root', 'root', 'mwd');*/
+//$db = mysqli_connect('localhost', 'root', 'root', 'mwdholding');
 $db = mysqli_connect('localhost', 'mwd1', 'mwdholding123', 'mwdholding');
 
 if (isset($_POST['login_user'])) {

@@ -6,11 +6,10 @@
           <p class="correo">info@mwdholding.com</p>
         </div>
         <div class="row justify-content-center copy">
-          <p>&copy; 2018 All rights reserved.</p>
+          <p>&copy; 2018 MWD MANAGEMENT COMPANY LLC</p>
         </div>
       </div>
     </footer>
-    
 
     <!-- Bootstrap core JavaScript
     ================================================== -->
