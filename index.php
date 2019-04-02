@@ -1,13 +1,7 @@
 <?php include('header.php'); ?>
     <main role="main">
-
-    <!-- Video Principal -->
-      <div class="container-fluid video">
-        <video autoplay muted loop id="myVideo">
-          <source src="assets/img/MWD_60.mp4" type="video/mp4">
-        </video>
+      <div class="video" data-vide-bg="assets/img/MWD_60" data-vide-options="loop: true, muted: false, autoplay: true, position: 0% 0%">
       </div>
-
       <!-- Banner de banca -->
       <div class="container-fluid bg-sep">
         <div class="row banner trans">
