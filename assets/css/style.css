@@ -639,7 +639,7 @@ div.logo-form > img{
   height: 709px;
 }
 .der{
-  background: linear-gradient(rgba(20,20,20, .5), rgba(20,20,20, .5)), url(../img/fondo_h2.png);
+  background: linear-gradient(rgba(20,20,20, .5), rgba(20,20,20, .5)), url(../img/seccion2.jpg);
   background-repeat: no-repeat;
   background-position: center;
   -webkit-background-size: cover;
@@ -675,7 +675,7 @@ div.logo-form > img{
   height: 350px;
 }
 .der-mob{
-  background: linear-gradient(rgba(20,20,20, .5), rgba(20,20,20, .5)), url(../img/fondo_h2.png);
+  background: linear-gradient(rgba(20,20,20, .5), rgba(20,20,20, .5)), url(../img/seccion2.jpg);
   background-repeat: no-repeat;
   background-position: center;
   -webkit-background-size: cover;

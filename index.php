@@ -72,7 +72,7 @@
         </ol>
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img class="first-slide" src="assets/img/hot-main.png" alt="First slide">
+            <img class="first-slide" src="assets/img/turks.jpg" alt="First slide">
             <div class="container">
               <div class="carousel-caption trans">
                 <h1>RITZ CARLTON RESIDENCE</h1>
